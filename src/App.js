@@ -34,5 +34,4 @@ const SquareComponent = () => {
     </div>
   );
 };
-
 export default SquareComponent;
